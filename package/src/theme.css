@@ -1,0 +1,9 @@
+/* Base brand definitions */
+:root {
+  --brand-primary: #0052FF;
+  --brand-primary-hover: #003ECC;
+  --brand-secondary: #64748b;
+  
+  --button-radius: 0.5rem;
+  --button-font-weight: 600;
+}

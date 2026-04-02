@@ -1,0 +1,11 @@
+{
+  "name": "@global/brand-design-system",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "peerDependencies": {
+    "tailwindcss": "^3.0.0"
+  }
+}
